@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana;
+    background-color: #2c2f33;
+    color: #ffffff; /*#99aab5*/
+}
+
+.main {
+    margin: auto;
+    width: 60%;
+    background-color: #23272a;
+    padding: 10px;
+
+    border: 1px solid #7289da;
+    border-top: none;
+    border-bottom: none;
+    box-shadow: 0px 0px 20px 20px #14141446/*#23272a*/;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+
+a {
+    hyphens: auto; 
+    text-align: justify
+}
