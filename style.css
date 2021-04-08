@@ -5,6 +5,10 @@ body {
     text-align: center;
 }
 
+a {
+    color: rgb(0, 90, 163);
+}
+
 .banner {
     width: 100%;
     background-color:crimson;
@@ -21,7 +25,11 @@ body {
     display: inline-block;
     margin: 0 auto;
     padding: 5px;
-    background-color: grey;
     width: 80%;
     background: #F3FBF9;
+    margin-bottom: 12px;
+}
+
+.textarea p {
+    text-align: justify;
 }
